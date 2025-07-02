@@ -28,7 +28,7 @@ Here are some of the projects I’ve worked on:
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/emmanueljirehb)  
+- [LinkedIn](https://www.linkedin.com/in/emmanueljirehb/)  
 - [Kaggle](https://www.kaggle.com/emmanueljireh)  
 - [Medium](https://medium.com/@emmanueljirehb)  
 ---

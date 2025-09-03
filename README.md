@@ -28,18 +28,6 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-You now have both older and newly added projects from your repository list. Feel free to let me know if you'd like:
-
-* Additional projects included
-* Screenshot/GIF previews for select projects
-* Reordering or refining descriptions further
-
-Happy to continue polishing!
-
-
-
----
-
 ### 💡 What I’m Learning Now
 - Deep Learning (CNNs, LSTMs)
 - Model Deployment and Serving

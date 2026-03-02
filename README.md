@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I’m a passionate Data Science and Machine Learning enthusiast with a strong focus on building end-to-end ML solutions. My work spans across NLP, Deep Learning, MLOps, and deploying scalable ML models. I love working on real-world datasets, experimenting with new ML frameworks, and sharing my learning journey on GitHub.
+I’m a passionate Artificial Intelligence and Machine Learning enthusiast with a strong focus on building end-to-end ML solutions. My work spans across NLP, Deep Learning, MLOps, and deploying scalable ML models. I love working on real-world datasets, experimenting with new ML frameworks, and sharing my learning journey on GitHub.
 
 ---
 
